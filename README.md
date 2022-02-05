@@ -4,25 +4,17 @@
 </a>
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
-- 🔭 I’m currently working on MEAN stack at [Softlab It](https://softlabit.com/). as a part time Web Developer
-- 🌱 I’m currently learning ML and Software Architecture
-- 👯 I’m looking to collaborate on web and ML
+
+- 🔭 I’m currently working on **MEAN Stack** at [Softlab It](https://softlabit.com/). as a part time Web Developer
+- 🌱 I’m currently learning **ML** and **Software Architecture**
+- 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with ML algorithms 🥺
-<!-- 💬 Ask me about ... -->
+- 🖤 Love tech talks and teching, worked as a **Teaching Assistant** at [Independent University, Bangladesh](http://www.iub.edu.bd/)
 - 📫 How to reach me: asufian917@gmail.com
-<!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: what?
-<!--
-**d3-c0d3/d3-c0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/d3-c0d3/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sufian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=d3-c0d3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
