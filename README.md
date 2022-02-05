@@ -4,14 +4,14 @@
 </a>
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
-🔭 I’m currently working on MEAN stack at [Softlab It](https://softlabit.com/) as a part time Web Developer
-🌱 I’m currently learning ML and Software Architecture
-👯 I’m looking to collaborate on web and ML
-🤔 I’m looking for help with ML algorithms 🥺
+- 🔭 I’m currently working on MEAN stack at [Softlab It](https://softlabit.com/). as a part time Web Developer
+- 🌱 I’m currently learning ML and Software Architecture
+- 👯 I’m looking to collaborate on web and ML
+- 🤔 I’m looking for help with ML algorithms 🥺
 <!-- 💬 Ask me about ... -->
-📫 How to reach me: asufian917@gmail.com
+- 📫 How to reach me: asufian917@gmail.com
 <!-- 😄 Pronouns: ... -->
-⚡ Fun fact: what?
+- ⚡ Fun fact: what?
 <!--
 **d3-c0d3/d3-c0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
