@@ -5,7 +5,7 @@
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
 
-- 🔭 I’m currently working on **MEAN Stack** at [Softlab It](https://softlabit.com/). as a part time Web Developer
+- 🔭 I’m currently working on **MEAN Stack** at [Softlab It](https://softlabit.com/). as Junior Software Engineer
 - 🌱 I’m currently learning **ML** and **Software Architecture**
 - 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with ML algorithms 🥺
