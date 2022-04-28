@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.facebook.com/abusauri.sufian.5/">
-  <img align="left" alt="Sufian's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/facebook.svg" />
+  <img align="left" alt="Sufian's Facebook" width="22px" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
