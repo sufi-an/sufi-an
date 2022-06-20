@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.facebook.com/abusauri.sufian.5/">
-  <img align="left" alt="Sufian's Facebook" width="22px" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+<!--   <img align="left" alt="Sufian's Facebook" width="22px" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /> -->
 </a>
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
@@ -10,7 +10,7 @@ Hello, I'm sufian
 - 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with ML algorithms 🥺
 - 🖤 Love tech talks and teching, worked as a **Teaching Assistant** at [Independent University, Bangladesh](http://www.iub.edu.bd/)
-- 📫 How to reach me: asufian917@gmail.com
+- 📫 How to reach me: asufian917@gmail.com <a href="https://www.facebook.com/abusauri.sufian.5/">Facebook</a>
 - ⚡ Fun fact: what?
 
 
