@@ -6,6 +6,7 @@ Hello, I'm sufian
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
 
 - 🔭 I’m currently working on **Backend Development** at [TechTrioZ](https://techtrioz.com/). as Junior Programmer
+- 🔥  If I am not at work then I am solving problems -_-
 - 🌱 I’m currently learning **Computer Vision** and **Software Architecture**
 - 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with ML algorithms 🥺
