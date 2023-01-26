@@ -15,7 +15,7 @@ Hello, I'm sufian
 - ⚡ Fun fact: what?
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=d3-c0d3&show_icons=true&theme=gotham" alt="sufian" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sufi-an&show_icons=true&theme=gotham" alt="sufian" />
 
 <!-- <p align="center">
     <a href="https://github.com/sufi-an/github-readme-streak-stats">
