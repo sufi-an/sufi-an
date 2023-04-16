@@ -9,7 +9,7 @@ Hello, I'm sufian
 - 🔥  If I am not at work then I am solving problems -_-
 - 🌱 I’m currently learning **Docker** and **Destributed Database System**
 - 👯 I’m looking to collaborate on real life problem solving
-- 🤔 I’m looking for help with ML algorithms 🥺
+- 🤔 I’m looking for help with proper documentation 🥺
 - 🖤 Love tech talks and teching, worked as a **Teaching Assistant** at [Independent University, Bangladesh](http://www.iub.edu.bd/)
 - 📫 How to reach me: asufian917@gmail.com <a href="https://www.facebook.com/abusauri.sufian.5/">Facebook</a>
 - ⚡ Fun fact: what?
