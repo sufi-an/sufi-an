@@ -7,7 +7,7 @@ Hello, I'm sufian
 
 - 🔭 I’m currently working on **Backend Development** at [TechTrioZ](https://techtrioz.com/). as Junior Programmer
 - 🔥  If I am not at work then I am solving problems -_-
-- 🌱 I’m currently learning **Computer Vision** and **Destributed Database System**
+- 🌱 I’m currently learning **Docker** and **Destributed Database System**
 - 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with ML algorithms 🥺
 - 🖤 Love tech talks and teching, worked as a **Teaching Assistant** at [Independent University, Bangladesh](http://www.iub.edu.bd/)
