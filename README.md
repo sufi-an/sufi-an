@@ -5,9 +5,9 @@
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
 
-- 🔭 I’m currently working on **Backend Development** at [TechTrioZ](https://techtrioz.com/). as Junior Programmer
+- 🔭 I’m currently working as **Softwate Developer** at [TechTrioZ](https://techtrioz.com/).
 - 🔥  If I am not at work then I am solving problems -_-
-- 🌱 I’m currently learning **Docker** and **Destributed Database System**
+- 🌱 I’m currently learning **Microservice** and **Cloud Engineering**
 - 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with proper documentation 🥺
 - 🖤 Love tech talks and teching, worked as a **Teaching Assistant** at [Independent University, Bangladesh](http://www.iub.edu.bd/)
