@@ -6,7 +6,7 @@ Hello, I'm sufian
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
 
 - 🔭 I’m currently working as **Softwate Developer** at [TechTrioZ](https://techtrioz.com/).
-- 🔥  If I am not at work then I am maintaining [Rust-Ds repo](https://github.com/sufi-an/rust-ds).
+- 🔥  If I am not at work then I am building systems with cpp, currently-> [ticket-booking-cpp](https://github.com/sufi-an/ticket-booking-cpp).
 - 🌱 I’m currently learning **Microservice** and **Cloud Engineering**
 - 👯 I’m looking to collaborate on real life problem solving
 - 🤔 I’m looking for help with proper documentation 🥺
