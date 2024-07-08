@@ -5,7 +5,7 @@
 Hello, I'm sufian 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
 
-- 🔭 I’m currently working as **Softwate Engineer** at [Bears Inc.](https://www.happy-bears.com/).
+- 🔭 I’m currently working as **Softwate Engineer** at [Bears Inc](https://www.happy-bears.com/).
 - 🔥  If I am not at work then I am building systems with cpp, currently-> [ticket-booking-cpp](https://github.com/sufi-an/ticket-booking-cpp).
 - 🌱 I’m currently learning **DevOps** and **Cloud Computing**
 - 👯 I’m looking to collaborate on scaling and optimising large systems.
