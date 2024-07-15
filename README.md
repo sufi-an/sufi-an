@@ -3,7 +3,7 @@
 <!--   <img align="left" alt="Sufian's Facebook" width="22px" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /> -->
 </a>
 Hello, I'm sufian 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3-c0d3" alt="d3-c0d3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufi-an" alt="sufi-an" /> </p>
 
 - 🔭 I’m currently working as **Softwate Engineer** at [Bears Inc](https://www.happy-bears.com/).
 - 🔥  If I am not at work then I am building systems with cpp, currently-> [ticket-booking-cpp](https://github.com/sufi-an/ticket-booking-cpp).
