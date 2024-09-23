@@ -13,7 +13,7 @@ Hello, I'm sufian
 - 📫 How to reach me: asufian917@gmail.com <a href="https://www.facebook.com/abusauri.sufian.5/">Facebook</a>
 - ⚡ Fun fact: There is none
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi-an&theme=dracula&&hide=html,css,scss,less&show_icons=true&locale=en" alt="sufi-an" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi-an&theme=dracula&&hide=html,css,scss,less&show_icons=true&locale=en" alt="sufi-an" /></p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sufi-an&show_icons=true&theme=gotham" alt="sufian" /> -->
 
 <!-- <p align="center">
