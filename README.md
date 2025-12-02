@@ -5,7 +5,7 @@
 Hello, I'm sufian 
 
 - 🔭 I’m currently working as **Softwate Engineer** at [Bears Inc](https://www.happy-bears.com/).
-- 🔥  If I am not at work then I am building systems with cpp, currently-> [ticket-booking-cpp](https://github.com/sufi-an/ticket-booking-cpp).
+- 🔥  If I am not at work then I am doing braindead things -> [novice-thoughts](https://github.com/sufi-an/novice-thoughts).
 - 🌱 I’m currently learning **DevOps** and **Cloud Computing**
 - 👯 I’m looking to collaborate on scaling and optimising large systems.
 - 🤔 I’m looking for help with resource utilization on server 🥺
