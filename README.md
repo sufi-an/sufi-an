@@ -7,7 +7,7 @@ I enjoy designing scalable systems, solving infrastructure problems, and buildin
 ## 🚀 What I'm Working On
 
 - 💼 Software Engineer at **[Bears Inc.](https://happy-bears.com/)**
-- 🌱 Founder & Engineer behind **[SpecialStep](https://specialstep.org/)** — Bangladesh's first Bengali-language child development support platform
+- 🌱 Founder & Engineer behind **[SpecialStep](https://specialstep.org/)** - Bangladesh's first Bengali-language child development support platform
 - ⚡ Building scalable APIs with **FastAPI** & **Django**
 - 🐳 Deploying production applications with **Docker**, **CI/CD**, and **AWS**
 - 🗄️ Designing scalable **PostgreSQL** databases and backend architectures
