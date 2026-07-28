@@ -1,23 +1,54 @@
-### Hi there 👋
-<a href="https://www.facebook.com/abusauri.sufian.5/">
-<!--   <img align="left" alt="Sufian's Facebook" width="22px" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /> -->
-</a>
-Hello, I'm sufian 
+# Hi, I'm Sufian 👋
 
-- 🔭 I’m currently working as **Softwate Engineer** at [Bears Inc](https://www.happy-bears.com/).
-- 🔥  If I am not at work then I am doing braindead things -> [novice-thoughts](https://github.com/sufi-an/novice-thoughts).
-- 🌱 I’m currently learning **DevOps** and **Cloud Computing**
-- 👯 I’m looking to collaborate on scaling and optimising large systems.
-- 🤔 I’m looking for help with resource utilization on server 🥺
-- 🖤 Love tech talks and teching, worked as a **Teaching Assistant** at [Independent University, Bangladesh](http://www.iub.edu.bd/)
-- 📫 How to reach me: asufian917@gmail.com <a href="https://www.facebook.com/abusauri.sufian.5/">Facebook</a>
-- ⚡ Fun fact: There is none
+Backend-focused Full Stack Software Engineer from Bangladesh 🇧🇩
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sufi-an&theme=dracula&&hide=html,css,scss,less&show_icons=true&locale=en" alt="sufi-an" /></p> -->
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sufi-an&show_icons=true&theme=gotham" alt="sufian" /> -->
+I enjoy designing scalable systems, solving infrastructure problems, and building products that create real-world impact.
 
-<!-- <p align="center">
-    <a href="https://github.com/sufi-an/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sufian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=d3-c0d3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
+## What I'm working on
+
+- 💼 Software Engineer at **Bears Inc.**
+- 🚀 Founder & Engineer behind **SpecialStep**
+- ⚡ Building APIs with FastAPI & Django
+- 🐳 Deploying applications using Docker and CI/CD
+- ☁️ Working with AWS and cloud infrastructure
+- 🗄️ Designing scalable PostgreSQL databases
+
+## Tech Stack
+
+**Backend**
+Python • FastAPI • Django • DRF • Node.js • Express
+
+**Frontend**
+React • Next.js • Vue • Nuxt • TypeScript
+
+**Databases**
+PostgreSQL • MySQL • MongoDB • Redis
+
+**DevOps**
+Docker • GitHub Actions • Nginx • Linux • AWS
+
+## Currently Learning
+
+- Go
+- Rust
+- Distributed Systems
+- Kubernetes
+- System Design
+
+## Interests
+
+- Backend Engineering
+- System Architecture
+- Developer Tools
+- Performance Optimization
+- Open Source
+- AI for Social Impact
+
+## Find me
+
+📧 **asufian917@gmail.com**
+
+📘 Facebook: <your link>
+
+💭 Random experiments:
+https://github.com/sufi-an/novice-thoughts
